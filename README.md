@@ -1,4 +1,4 @@
-# WS rest to translate a word or phrase from Spanish to the English language.
+# WS rest (POST method) to translate a word or phrase from Spanish to the English language.
 
 ### To run:
 mvn spring-boot:run
